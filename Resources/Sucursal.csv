@@ -1,0 +1,16 @@
+IdSucursal;Nombre;Direccion;Telefono;Correo;PermiteDevolucion
+1;Sucursal Gabriel Zoe;Calle Alberto Solano 129;8499208593;SucursalGabrielZoe@gmail.com;1
+2;Sucursal Leo Danna;Avenida Oeste 9;8497548480;SucursalLeoDanna@gmail.com;1
+3;Sucursal Andrés Adriana;S. Pablo 141;8495267736;SucursalAndrésAdriana@gmail.com;1
+4;Sucursal Alejandro Andrea;Calle Dolly 174;8292265431;SucursalAlejandroAndrea@gmail.com;0
+5;Sucursal Axel Francesca;Manzana P 83;8497151013;SucursalAxelFrancesca@gmail.com;1
+6;Sucursal Hugo Noa;Calle H-5 55;8295341837;SucursalHugoNoa@gmail.com;0
+7;Sucursal Iván Antonella;Calle Dr. Tejada Florentino 128;8297549919;SucursalIvánAntonella@gmail.com;1
+8;Sucursal Emmanuel Constanza;Calle Soco 188;8494623014;SucursalEmmanuelConstanza@gmail.com;1
+9;Sucursal Manuel Maia;Avenida La Cordillera 102;8293545713;SucursalManuelMaia@gmail.com;1
+10;Sucursal Vicente Fernanda;Calle Vientos Del Sur 41;8299904685;SucursalVicenteFernanda@gmail.com;1
+11;Sucursal David Valentina;Calle Mella 27;8298534458;SucursalDavidValentina@gmail.com;1
+12;Sucursal Lorenzo Emilia;Calle Altamira 133;8293398857;SucursalLorenzoEmilia@gmail.com;1
+13;Sucursal Simón Ariadna;Felicita Vargas 77;8298307340;SucursalSimónAriadna@gmail.com;1
+14;Sucursal Felipe Sofía;Panchito Garcia 91;8294590915;SucursalFelipeSofía@gmail.com;1
+15;Sucursal Gael Elisa;Calle Restauración 40;8292112209;SucursalGaelElisa@gmail.com;1
